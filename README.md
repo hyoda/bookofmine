@@ -2,6 +2,8 @@
 
 Book Club
 
+https://www.notion.so/Quasar-ecba0e8d5432497cacdca75821961892
+
 ## Install the dependencies
 ```bash
 yarn
